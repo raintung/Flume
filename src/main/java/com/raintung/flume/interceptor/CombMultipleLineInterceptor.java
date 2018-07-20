@@ -29,7 +29,7 @@ public class CombMultipleLineInterceptor implements Interceptor {
 
 	@Override
 	public void initialize() {
-
+		// NOT to do it.
 	}
 
 	private Event preEvent = null;
@@ -70,8 +70,7 @@ public class CombMultipleLineInterceptor implements Interceptor {
 
 	@Override
 	public void close() {
-		// TODO Auto-generated method stub
-
+		// NOT to do it.
 	}
 
 	/**
